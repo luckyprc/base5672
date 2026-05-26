@@ -1,3 +1,7 @@
+vless://8f98e7f0-5848-45f0-81f5-0aa9b7a35680@bas5672.ccwu.cc:443?encryption=none&security=tls&sni=bas5672.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=bas5672.ccwu.cc&path=%2Fvless#Railway-Singbox
+
+
+
 ⚠️ 严正声明 (License & Copyright)
 本项目采用 CC BY-NC 4.0 协议进行分发。
 无论你是直接 Fork、修改源码还是重新分发，都必须保留原作者的署名，且严禁用于任何商业牟利行为。一经发现侵权，作者保留追究责任的权利。（支持YouTube等视频平台分享，但必须提供原项目地址）
